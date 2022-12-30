@@ -1,0 +1,87 @@
+ID (should be B0001): B0001
+Name: John Doe
+ID: B0001
+Pay Rate: $20.00
+Accrued Leave: 10.0
+Annual Hours Worked: 50.0
+Annual Earnings: $1,000.00
+ID (should be A1000): A1000
+Name: Margaret Brennan
+ID: A1000
+Pay Rate: $15.00
+Accrued Leave: 0.0
+Annual Hours Worked: 0.0
+Annual Earnings: $0.00
+Name: Mary Smith
+ID: A5102
+Pay Rate: $18.25
+Accrued Leave: 10.0
+Annual Hours Worked: 80.0
+Annual Earnings: $1,460.00
+Name: John Jones
+ID: B6820
+Pay Rate: $16.50
+Accrued Leave: 2.5
+Annual Hours Worked: 20.0
+Annual Earnings: $330.00
+Name: Robert Doe
+ID: A1001
+Pay Rate: $17.50
+Accrued Leave: 20.0
+Annual Hours Worked: 80.0
+Annual Earnings: $1,360.00
+John Doe earned $800.00 and has 15.0 hours of leave accrued.
+Name: John Doe
+ID: B0001
+Pay Rate: $20.00
+Accrued Leave: 15.0
+Annual Hours Worked: 90.0
+Annual Earnings: $1,800.00
+Margaret Brennan earned $750.00 and has 5.6 hours of leave accrued.
+Name: Margaret Brennan
+ID: A1000
+Pay Rate: $15.00
+Accrued Leave: 5.6
+Annual Hours Worked: 45.0
+Annual Earnings: $750.00
+Requested leave beyond accrued hours
+Leave used adjusted to 10.0
+Mary Smith earned $620.50 and has 3.0 hours of leave accrued.
+Name: Mary Smith
+ID: A5102
+Pay Rate: $18.25
+Accrued Leave: 3.0
+Annual Hours Worked: 104.0
+Annual Earnings: $2,080.50
+Requested leave pushes time worked into overtime
+Leave used adjusted to 1.0
+John Jones earned $660.00 and has 6.4 hours of leave accrued.
+Name: John Jones
+ID: B6820
+Pay Rate: $16.50
+Accrued Leave: 6.4
+Annual Hours Worked: 59.0
+Annual Earnings: $990.00
+Requested leave beyond accrued hours
+Leave used adjusted to 20.0
+Requested leave pushes time worked into overtime
+Leave used adjusted to 15.0
+Robert Doe earned $700.00 and has 8.1 hours of leave accrued.
+Name: Robert Doe
+ID: A1001
+Pay Rate: $17.50
+Accrued Leave: 8.1
+Annual Hours Worked: 105.0
+Annual Earnings: $2,060.00
+Name: John Doe
+ID: B0001
+Pay Rate: $20.00
+Accrued Leave: 10.0
+Annual Hours Worked: 50.0
+Annual Earnings: $1,000.00
+Name: Margaret Brennan
+ID: A1000
+Pay Rate: $15.00
+Accrued Leave: 0.0
+Annual Hours Worked: 0.0
+Annual Earnings: $0.00

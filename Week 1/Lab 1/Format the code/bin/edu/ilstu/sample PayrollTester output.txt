@@ -1,0 +1,87 @@
+Displaying data for empID B6820
+Name: John Jones
+ID: B6820
+Pay Rate: $16.50
+Accrued Leave: 2.5
+Annual Hours Worked: 20.0
+Annual Earnings: $330.00
+
+Displaying data for empID A1000
+Name: Margaret Brennan
+ID: A1000
+Pay Rate: $15.00
+Accrued Leave: 0.0
+Annual Hours Worked: 0.0
+Annual Earnings: $0.00
+
+ Displaying data for non-existent empID D9999
+Employee: D9999 not found.
+
+Displaying data for all employees
+Name: Mary Smith
+ID: A5102
+Pay Rate: $18.25
+Accrued Leave: 10.0
+Annual Hours Worked: 80.0
+Annual Earnings: $1,460.00
+
+Name: John Jones
+ID: B6820
+Pay Rate: $16.50
+Accrued Leave: 2.5
+Annual Hours Worked: 20.0
+Annual Earnings: $330.00
+
+Name: Robert Doe
+ID: A1001
+Pay Rate: $17.50
+Accrued Leave: 20.0
+Annual Hours Worked: 80.0
+Annual Earnings: $1,360.00
+
+Name: Ann Hawkins
+ID: C2020
+Pay Rate: $20.00
+Accrued Leave: 10.0
+Annual Hours Worked: 30.0
+Annual Earnings: $600.00
+
+Name: Margaret Brennan
+ID: A1000
+Pay Rate: $15.00
+Accrued Leave: 0.0
+Annual Hours Worked: 0.0
+Annual Earnings: $0.00
+
+Name: John Doe
+ID: B0001
+Pay Rate: $20.00
+Accrued Leave: 10.0
+Annual Hours Worked: 50.0
+Annual Earnings: $1,000.00
+
+Running payroll from paydata1.txt
+Mary Smith earned $730.00 and has 15.0 hours of leave accrued.
+Requested leave pushes time worked into overtime
+Leave used adjusted to 15.0
+Robert Doe earned $700.00 and has 8.1 hours of leave accrued.
+Ann Hawkins earned $300.00 and has 11.9 hours of leave accrued.
+
+Displaying data for all employees
+Running payroll from paydata2.txt
+John Jones earned $330.00 and has 5.0 hours of leave accrued.
+Mary Smith earned $730.00 and has 11.0 hours of leave accrued.
+Robert Doe earned $875.00 and has 13.8 hours of leave accrued.
+
+Displaying data for all employees
+Running payroll from paydata3.txt
+Requested leave beyond accrued hours
+Leave used adjusted to 11.875
+Ann Hawkins earned $237.50 and has 0.0 hours of leave accrued.
+Mary Smith earned $730.00 and has 16.0 hours of leave accrued.
+Mary Smith earned $730.00 and has 16.0 hours of leave accrued.
+Requested leave beyond accrued hours
+Leave used adjusted to 13.75
+Robert Doe earned $660.62 and has 3.0 hours of leave accrued.
+
+Displaying data for all employees

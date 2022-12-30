@@ -1,0 +1,10 @@
+Mary Smith
+A5102 18.25 10.0 80.0 1460.0
+John Jones
+B6820 16.5 2.5 20.0 330.0
+Robert Doe
+A1001 17.5 20.0 80.0 1360.0
+Ann Hawkins
+C2020 20.0 10.0 30.0 600.0
+Margaret Brennan
+A1000 15.0 0.0 0.0 0.0

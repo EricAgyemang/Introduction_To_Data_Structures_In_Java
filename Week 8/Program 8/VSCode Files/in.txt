@@ -1,0 +1,3 @@
+(additional methods that handle pieces) of the checking process. {This is your opportunity to
+think about some program design:} what are some [individual] tasks that could be placed in
+methods(

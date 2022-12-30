@@ -1,0 +1,8 @@
+Mary Smith
+A5102 18.25 10 80 1460
+John Jones
+B6820 16.5 2.5 20 330
+Robert Doe
+A1001 17.5 20 80 1360
+Ann Hawkins
+C2020 20 10 30 600

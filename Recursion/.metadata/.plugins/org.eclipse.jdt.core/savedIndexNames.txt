@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\M.S. INFORMATION SYSTEMS\SPRING 2022\IT279 Algorithmns  and Data Structures\Java Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+314373747.index
+1446271911.index

@@ -1,0 +1,26 @@
+    protected void generateLinearMoves(char[][] boardData, Board theBoard, int rowOffset, int colOffset, char label)
+    {
+        boolean isLegal = true;
+        int curRow = rowNum + rowOffset;
+        int curCol = columnNum + colOffset;
+        while (isLegal)
+        {
+            int squareType = theBoard.getSquareInfo(curRow, curCol);
+            if (squareType == Board.EMPTY_SQUARE)
+            {
+                boardData([curRow][curCol] = label;
+            }
+            else if (squareType == Board.OFF_THE_BOARD)
+            {
+                isLegal = false;
+            }
+            else
+            {
+                isLegal = false;
+                if (pieceColor != squareType)
+                    boardData[curRow][curCol] = label;
+            }
+            curRow = curRow + rowOffset;
+            curCol = curCol + colOffset;
+        }
+    }

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package recursion;
+
+/**
+ * @author eagyem2
+ *
+ */
+public class RecursionExample {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	
+
+	}
+
+}
